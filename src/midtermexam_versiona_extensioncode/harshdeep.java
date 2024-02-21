@@ -10,6 +10,6 @@ package midtermexam_versiona_extensioncode;
  * Name: Harshdeep Singh
  * Today our Midterm
  */
-public class hrashdeep {
+public class harshdeep {
     
 }
